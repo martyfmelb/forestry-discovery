@@ -12,6 +12,6 @@ description: "Maserati has been teasing us with the new MC20 mid-engine sports c
   structure with aluminum subframes for the suspension and powertrain. This construction
   minimizes weight, which sets the MC20 up for performance-related success."
 available_colours:
-- data/body-paints/bianco-audace.md
+- data/body-paints/maserati/bianco-audace.md
 
 ---
