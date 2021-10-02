@@ -11,6 +11,7 @@ description: "Maserati has been teasing us with the new MC20 mid-engine sports c
   collaboration with motorsport engineering company Dallara has resulted in a carbon-fiber
   structure with aluminum subframes for the suspension and powertrain. This construction
   minimizes weight, which sets the MC20 up for performance-related success."
-available_colours: []
+available_colours:
+- data/body-paints/bianco-audace.md
 
 ---
