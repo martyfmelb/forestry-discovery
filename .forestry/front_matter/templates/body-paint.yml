@@ -13,3 +13,5 @@ fields:
   config:
     required: true
     color_format: Hex
+pages:
+- data/body-paints/rosso-corsa.md
