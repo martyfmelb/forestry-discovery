@@ -42,4 +42,5 @@ fields:
     max: 
     source:
       type: pages
+      section: body-paints
   label: Available Colours
