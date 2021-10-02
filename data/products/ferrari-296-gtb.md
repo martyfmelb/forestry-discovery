@@ -8,6 +8,6 @@ description: |-
 
   The car thus redefines the idea of driving fun to provide pure excitement not only when pursuing maximum performance but also in everyday driving.
 available_colours:
-- data/body-paints/rosso-corsa.md
+- data/body-paints/ferrari/rosso-corsa.md
 
 ---

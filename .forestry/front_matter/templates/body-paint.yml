@@ -13,11 +13,3 @@ fields:
   config:
     required: true
     color_format: Hex
-pages:
-- data/body-paints/bianco-audace.md
-- data/body-paints/bianco-avus.md
-- data/body-paints/giallo-modena.md
-- data/body-paints/nero.md
-- data/body-paints/rosso-corsa.md
-- data/body-paints/rosso-mugello.md
-- data/body-paints/rosso-scuderia.md
