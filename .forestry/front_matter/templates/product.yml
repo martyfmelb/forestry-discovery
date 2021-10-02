@@ -45,4 +45,5 @@ fields:
       section: body-paints
   label: Available Colours
 pages:
+- data/products/ferrari-296-gtb.md
 - data/products/maserati-mc20.md
