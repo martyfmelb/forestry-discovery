@@ -44,3 +44,5 @@ fields:
       type: pages
       section: body-paints
   label: Available Colours
+pages:
+- data/products/maserati-mc20.md
