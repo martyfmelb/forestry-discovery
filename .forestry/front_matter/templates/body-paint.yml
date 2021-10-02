@@ -1,4 +1,15 @@
 ---
 label: Body Paint
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Name
+- name: hex_colour
+  type: color
+  label: Hex Colour
+  config:
+    required: true
+    color_format: Hex
